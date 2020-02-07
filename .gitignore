@@ -131,3 +131,5 @@ dmypy.json
 #Database
 jmapi.db
 jmapi.db-journal
+#app main directory
+app/__init__.py
